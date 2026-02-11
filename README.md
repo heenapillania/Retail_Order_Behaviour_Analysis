@@ -28,9 +28,9 @@ This project strengthened my understanding of:
 - Statistical reasoning in business context
 - Translating analysis into business insights
 
-Author
+## Author
 Heena Pillania
-M.Sc. Mathematics and Computing, IIT Hyderabad
-Aspiring Data Analyst
-📧 Email: heenapillania82@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/heenapillania
+- M.Sc. Mathematics and Computing, IIT Hyderabad
+- Aspiring Data Analyst
+- 📧 Email: heenapillania82@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/heenapillania
